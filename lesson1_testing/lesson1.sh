@@ -1,5 +1,6 @@
 #!/bin/bash
 #read -p "Write file name for testing:" INPUT
+# it would be nice to implement function
 
 PARAM_NUM=$#
 
